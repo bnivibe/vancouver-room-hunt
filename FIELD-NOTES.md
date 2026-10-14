@@ -248,11 +248,10 @@ things made that safe. Every finalist had been checked to the same depth. And I 
 C open by telling the operator, honestly, that I needed one more day.
 
 One thing I got wrong about C. Part of its appeal was daily English with the couple who
-lived there. They turned out to live in the very room I was taking, and they were the
-ones moving out. Nobody staying would be speaking English with me at home. The
-operator's other posts for the same address, which I read only after choosing C, already
-hinted at the turnover. **Ask who will still live there after you move in, and read the
-operator's other posts when you shortlist.**
+lived there, and they turned out to live in the very room I was taking. I heard they were
+moving out and crossed English off the list. They were moving into the master room, so
+they stayed in the house. **Moving out of this room is not moving out of the house: ask
+who will live where after you move in.**
 
 ## 12. Contract and money
 
