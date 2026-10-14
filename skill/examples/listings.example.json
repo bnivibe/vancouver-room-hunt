@@ -1,0 +1,7 @@
+[
+  {"label": "East Van room near a station", "rent": 850, "transit": "zone1", "utilities": "included"},
+  {"label": "West End room, walk to the anchor", "rent": 1000, "transit": "walk"},
+  {"label": "Burnaby condo room, utilities extra", "rent": 900, "transit": "zone2", "utilities": 60},
+  {"label": "Surrey room, private bathroom", "rent": 750, "transit": "zone3"},
+  {"label": "Unfurnished room, bus commute", "rent": 800, "transit": "bus", "furniture": 400, "stay": 6}
+]

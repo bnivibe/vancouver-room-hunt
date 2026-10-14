@@ -1,0 +1,11 @@
+{
+  "savings": 12000,
+  "start": "2026-10",
+  "horizon": "2027-07",
+  "other_monthly": 1100,
+  "job_start": "2027-02",
+  "monthly_income": 5000,
+  "one_off": {"2026-10": 500},
+  "baseline": {"rent": 950, "transit": "zone1", "utilities": "included"},
+  "fares": {}
+}
