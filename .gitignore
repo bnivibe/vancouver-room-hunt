@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.omc/
+.superpowers/
+# The renter's own constraints and money never leave the machine
+skill/profile.md
+profile.md
+budget.json
+*.budget.json
