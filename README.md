@@ -1,10 +1,10 @@
 # vancouver-room-hunt
 
 How I found a room share in Vancouver as a newcomer, with Claude Code as my housing
-scout. I arrived on a working-holiday visa at the end of August 2026 with no job and no
-Canadian credit history, and needed a room from October 1. In under three weeks from
-the first price map to a signed agreement, Claude read hundreds of listings across eight
-sources and checked addresses against public records. I viewed seven rooms and signed one.
+scout. I arrived at the end of August 2026 with no Canadian credit history and needed a
+room from October 1. In under three weeks from the first price map to a signed
+agreement, Claude read hundreds of listings across eight sources and checked addresses
+against public records. I viewed seven rooms and signed one.
 
 This repo keeps two things: the Claude Code skill that did the scouting, and the know-how
 and experiences behind every rule in it, in [FIELD-NOTES.md](FIELD-NOTES.md).
@@ -12,7 +12,7 @@ and experiences behind every rule in it, in [FIELD-NOTES.md](FIELD-NOTES.md).
 ## How it works
 
 1. **I set the criteria; Claude writes them down with the date.** A private `profile.md`
-   holds my anchor (the central library), move-in date, term, knockouts and ranking.
+   holds my daily anchor, move-in date, term, knockouts and ranking.
    They changed five times in two weeks, so Claude asks again when they start to tangle
    instead of searching on yesterday's filter.
 2. **Claude searches every live source on every run.** Craigslist, Facebook Marketplace

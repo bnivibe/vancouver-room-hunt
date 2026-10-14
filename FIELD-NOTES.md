@@ -1,9 +1,9 @@
 # Field notes: finding a room in Vancouver as a newcomer
 
-I arrived in Vancouver on a working-holiday visa at the end of August 2026. I had a
-temporary room in a share house until September 30, no job yet and no Canadian credit
-history. These are the notes from the search that followed, in the order things
-happened. Every rule in [the skill](skill/SKILL.md) comes from one of these moments.
+I arrived in Vancouver at the end of August 2026. I had a temporary room in a share
+house until September 30 and no Canadian credit history. These are the notes from the
+search that followed, in the order things happened. Every rule in [the
+skill](skill/SKILL.md) comes from one of these moments.
 
 Names, addresses and my own numbers are left out. Prices are what the market showed
 in September 2026.
@@ -26,7 +26,7 @@ utilities + the transit pass the address forces.
 
 - **Buses ignore zones.** A monthly pass limits zones on SkyTrain and SeaBus only, so a
   bus commute costs a 1-zone pass from anywhere in Metro Vancouver.
-- **Walking beats every pass.** If the daily anchor (for me, the central library) is a
+- **Walking beats every pass.** If the daily anchor (for me, a place downtown) is a
   walk of 35 minutes or less, the room needs only rain-day fares, about CAD 50 a month.
 - **Utilities are worth about CAD 60 a month.** That is more than the gap between Zone 1
   and Zone 2.
@@ -89,8 +89,8 @@ The card lies by omission. The body is where the deal-breakers live.
 - **"Furnished" is a photo with a bed in it.** One room I almost shortlisted had a body
   that read like a furnished condo. All four photos showed an empty unit.
 - **"Working professional or student preferred" is a preference. "Credit check" is a
-  gate.** I was neither a student nor employed yet, so I skipped the gates and prepared
-  an answer for the preferences. Some posts welcomed working-holiday visas outright.
+  gate.** I could not pass the gates yet, so I skipped them and prepared an answer for
+  the preferences. Some posts welcomed newcomers on work permits outright.
 
 ## 5. Scams, deposits and money
 
@@ -112,10 +112,9 @@ room, and a deposit asked for before anyone sees it.
 ## 6. The first viewing: I was being interviewed
 
 The first room I saw was a high-floor condo room with a great view and a host who lived
-there. I loved it. I barely asked anything. The host kept asking whether I was a student,
-whether I had a job, and about my bank account. I showed my Canadian bank balance, which
-was about half of the minimum term's rent, and had nothing else ready. I walked out sure
-the host had cooled on me, and the host never answered my follow-up.
+there. I loved it. I barely asked anything. The host kept asking whether I was a
+student, whether I had a job, and about my bank account. I had nothing ready to show. I
+walked out sure the host had cooled on me, and the host never answered my follow-up.
 
 The AI's first explanation was that its viewing guide had too many questions. That was
 wrong: I had not used them. The real problem was money. A job-seeking tenant is checked
