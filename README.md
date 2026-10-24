@@ -1,5 +1,11 @@
 # vancouver-room-hunt
 
+<!-- bnitech:card -->
+- **Problem:** Room-share listings spread over eight sites hide the real monthly cost and the dealbreakers below the fold.
+- **Who it helps:** Newcomers looking for a room share in Vancouver or elsewhere in BC.
+- **Try it (about 15 minutes):** Copy `skill/` to `~/.claude/skills/room-hunt/`, copy `profile.example.md` to `profile.md` and fill in your criteria, then ask Claude Code to find you a room or paste a listing (details under "Run it").
+<!-- /bnitech:card -->
+
 How I found a room share in Vancouver as a newcomer, with Claude Code as my housing
 scout. I arrived at the end of August 2026 with no Canadian credit history and needed a
 room from October 1. In under three weeks from the first price map to a signed
