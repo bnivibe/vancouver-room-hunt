@@ -11,10 +11,9 @@ in September 2026.
 ## 1. What I was looking for
 
 - A real bedroom in a room share. Whole units were out from the start: they run
-  credit checks and want proof of income, and I had neither.
-- Move in on October 1, month to month or a short fixed term. I did not know where my
-  job would be, and Vancouver tech is spread across downtown, Mount Pleasant and
-  Burnaby.
+  credit checks and want proof of income, which a newcomer rarely has yet.
+- Move in on October 1, month to month or a short fixed term. I wanted to stay free to
+  move, since Vancouver tech is spread across downtown, Mount Pleasant and Burnaby.
 - A kitchen I could actually cook in. What I cook smells (pan-fried pork belly, stews,
   ramen), so that became a question to ask before signing, not a detail.
 - Quiet. I had no idea yet how much that one would end up deciding.
@@ -90,7 +89,7 @@ The card lies by omission. The body is where the deal-breakers live.
   that read like a furnished condo. All four photos showed an empty unit.
 - **"Working professional or student preferred" is a preference. "Credit check" is a
   gate.** I could not pass the gates yet, so I skipped them and prepared an answer for
-  the preferences. Some posts welcomed newcomers on work permits outright.
+  the preferences. Some posts welcomed newcomers outright.
 
 ## 5. Scams, deposits and money
 
@@ -117,13 +116,13 @@ student, whether I had a job, and about my bank account. I had nothing ready to 
 walked out sure the host had cooled on me, and the host never answered my follow-up.
 
 The AI's first explanation was that its viewing guide had too many questions. That was
-wrong: I had not used them. The real problem was money. A job-seeking tenant is checked
-for funds first. Since then every viewing has started the same way:
+wrong: I had not used them. The real problem was money. A tenant new to the city is
+checked for funds first. Since then every viewing has started the same way:
 
 1. **Proof of funds ready on the phone**, enough to cover the minimum term, account
    numbers hidden.
-2. **"Are you a student? Do you have a job?" answered in three sentences**: my experience,
-   where the job search stands that day, and rent paid from savings I can show.
+2. **"Are you a student? Do you have a job?" answered in three sentences**: my background,
+   what I am doing in the city, and how the rent is covered, with the proof on my phone.
 3. **One line that fits the host's life.** That host worked early shifts, and "I'd keep
    mornings and nights quiet" would have cost nothing.
 4. **A thank-you the same evening** that repeats one detail from the conversation.
