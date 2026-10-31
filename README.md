@@ -34,7 +34,8 @@ and experiences behind every rule in it, in [FIELD-NOTES.md](FIELD-NOTES.md).
    station. Crime data with its limits stated. For a finalist, an LTSA title search, so
    the owner, the landlord on the agreement and the payee can be matched.
 5. **Code does the arithmetic.** `score.py` prices each room as rent + utilities +
-   transit (+ furniture), and with a budget file shows my balance with and without a job.
+   transit (+ furniture), and with an optional budget file projects each room's effect on
+   the balance at a chosen date.
 6. **Every listing goes to my phone, not just the shortlist.** One line each, with a
    link. Two of the three rooms I picked from the first such list were ones Claude had
    not recommended.
